@@ -116,12 +116,4 @@ Gaussian Mixture Model fit with EM, NumPy only.
 
 ---
 
-## GitHub Stats
-
-[![Mathis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathos34&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Mathos34)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathos34&hide_border=true&layout=compact&langs_count=8)](https://github.com/Mathos34)
-
----
-
 Built with care from Paris. Always open to talk about AI, healthtech, or world models. Feel free to [reach out](mailto:mathis34400@gmail.com).
