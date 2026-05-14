@@ -24,8 +24,6 @@ I build things at the intersection of applied AI, healthtech and entrepreneurshi
 
 I lead the Intelligence Lab at ECE Paris. We work on applied AI projects combining research, prototyping and innovation. Current focus areas : world models and JEPA architectures, model compression for on-device inference, and information retrieval.
 
-In June 2026, I'm participating in the [Hack the World(s)](https://hacktheworlds.fr/) hackathon at ESIEE Paris, parrained by Yann LeCun, on Joint-Embedding Predictive Architectures.
-
 ### Hugging Face
 
 * [whisper-large-v3-turbo-french-v6](https://huggingface.co/Mathos34400/whisper-large-v3-turbo-french-v6) : Whisper Large V3 Turbo fine-tuned for French speech recognition. Sixth iteration of the recipe.
@@ -120,9 +118,9 @@ Gaussian Mixture Model fit with EM, NumPy only.
 
 ## GitHub Stats
 
-![Mathis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathos34&show_icons=true&theme=transparent&hide_border=true)
+[![Mathis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathos34&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Mathos34)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathos34&theme=transparent&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathos34&hide_border=true&layout=compact&langs_count=8)](https://github.com/Mathos34)
 
 ---
 
